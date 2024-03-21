@@ -1,6 +1,6 @@
 {
   "name": "modenetwork",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "mode this to future",
   "main": ".eslintrc.js",
   "directories": {
@@ -87,4 +87,3 @@
     "source-map-url": "^0.4.1"
   }
 }
-
